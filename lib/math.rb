@@ -1,3 +1,5 @@
+class Things
+
 def square(x)
   x * x
 end
@@ -12,4 +14,6 @@ end
 
 def cube_surface_area(length_of_edge)
   6 * (length_of_edge**2)
+end
+
 end
